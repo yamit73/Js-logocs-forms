@@ -1,0 +1,25 @@
+#main,#container{
+    width:50%;
+    margin: auto;
+    margin-right: 30%;
+}
+.input-lable{
+    display: block;
+    margin-top:20px;
+    font-size: 20px;
+    text-align: right;
+}
+#container input{
+    height: 30px;
+    margin-left: 10%;
+}
+#submit{
+    height: 30px;
+    margin-left: 20%;
+    margin-top: 20px;
+    width: 40%;
+}
+#message{
+    width: 70%;
+    margin:auto;
+}
